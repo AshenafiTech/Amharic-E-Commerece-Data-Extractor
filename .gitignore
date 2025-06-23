@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+.env
+venv/
+env/
+*.log
+*.sqlite3
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+data/vendor_metrics/
+data/conll/*.txt
+
+# Models
+models/
+*.bin
+*.pt
+*.ckpt
+*.h5
+*.onnx
+
+# Colab & Google Drive artifacts
+*.ipynb~*
+.gdrive/
+.DS_Store
+
+# Hugging Face Cache
+*.cache/
+**/.cache/
+huggingface/
+transformers_cache/
+datasets_cache/
+
+# Output / Results
+outputs/
+logs/
+*.csv
+*.pdf
+
+# OS / Editor files
+*.swp
+*.bak
+*.tmp
+*.orig
+*.idea/
+*.vscode/
+
+# Reports (compiled or exported)
+reports/*.pdf
+reports/*.csv
