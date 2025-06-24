@@ -1,0 +1,39 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Telegram Scraping
+telethon
+
+# Amharic Text Processing
+regex
+camel-tools
+
+# Hugging Face (NER Fine-Tuning)
+transformers
+datasets
+tokenizers
+accelerate
+
+# Model Training & Evaluation
+torch
+evaluate
+
+# Model Interpretability
+shap
+lime
+
+# Jupyter & Dev Tools
+jupyterlab
+ipykernel
+notebook
+tqdm
+
+# Optional: Data Labeling Interface (GUI)
+label-studio
+
+# Visualization
+plotly
